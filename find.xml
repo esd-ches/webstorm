@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Directory '[CHES_5.x] - ...\at.ches.pro.web'" />
+    <option name="defaultScopeName" value="Directory '[CHES_5.x] - ...\at.ches.pro.web'" />
+    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '[CHES_5.x] - ...\at.ches.pro.web'" />
+    <option name="FILE_MASK" value="*" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js, *.css</mask>
+      <mask>*.css</mask>
+      <mask>*.scss</mask>
+      <mask>*.js</mask>
+      <mask>ui.json</mask>
+      <mask>translation.json</mask>
+      <mask>*</mask>
+    </recentFileMasks>
+  </component>
+</application>
