@@ -1,6 +1,19 @@
 <application>
-  <component name="CodeStyleSchemes">
-    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Less</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
@@ -38,7 +51,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -52,30 +65,5 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="C:/Program Files/nodejs/node.exe" />
-  </component>
-  <component name="SvnApplicationSettings">
-    <option name="myCheckoutURLs">
-      <list>
-        <option value="https://svn.ches.pro" />
-      </list>
-    </option>
-    <option name="myTypedURLs">
-      <list>
-        <option value="https://svn.ches.pro" />
-        <option value="https://svn.ches.pro/trunk" />
-        <option value="http://svn.ches.pro" />
-        <option value="http://svn.ches.proi" />
-        <option value="http://svn.ches.pro/trunk" />
-      </list>
-    </option>
-  </component>
-  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
-    <recent_templates>
-      <option name="RECENT_TEMPLATES">
-        <value>
-          <list size="0" />
-        </value>
-      </option>
-    </recent_templates>
   </component>
 </application>

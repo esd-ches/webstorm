@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;resources;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.classpath;.git;.hg;.project;.settings;.svn;CVS;RCS;SCCS;__pycache__;_svn;bin;rcs;resources;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="dust" type="Dust" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping pattern="branding-colors" type="PLAIN_TEXT" />
+      <mapping ext="sccs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
